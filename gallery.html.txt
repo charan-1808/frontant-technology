@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Event Gallery</h1>
+
+<p>Images of previous events will be displayed here.</p>
+
+</body>
+</html>
