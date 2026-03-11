@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>College Event Website</title>
+</head>
+
+<body>
+
+<h1>Welcome to College Event Portal</h1>
+<p>This website shows college events.</p>
+
+</body>
+</html>
