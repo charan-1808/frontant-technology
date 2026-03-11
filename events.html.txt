@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Events</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Upcoming Events</h1>
+
+<ul>
+<li>Technical Workshop</li>
+<li>Cultural Fest</li>
+<li>Sports Meet</li>
+</ul>
+
+</body>
+</html>
